@@ -1,0 +1,34 @@
+<method name="RS_RETRIEVE_PRINT_SO">
+  <database>DEFAULT</database>
+  <parameters>
+    <parameter>
+      <name>ERROR_OCCURED</name>
+      <value>
+      </value>
+    </parameter>
+    <parameter>
+      <name>XML_TAGS</name>
+      <value>-1</value>
+    </parameter>
+  </parameters>
+  <tables>
+    <table name="RS_RETRIEVE_PRINT_SO_IN">
+      <data>
+        <row number="1">
+          <SOURCE_MODULE>SO</SOURCE_MODULE>
+          <DIVISION>23</DIVISION>
+          <SYS_LANGUAGE_CODES>
+          </SYS_LANGUAGE_CODES>
+          <SYS_ORDER_DATES>
+          </SYS_ORDER_DATES>
+          <SYS_CALLING_FUNCTION>SOP_R_013</SYS_CALLING_FUNCTION>
+          <PREPRINTED_FLAG>0</PREPRINTED_FLAG>
+          <INCLUDE_TRANSFER>N</INCLUDE_TRANSFER>
+          <COMPANY_CODE>1</COMPANY_CODE>
+          <SYS_REPRINT>1</SYS_REPRINT>
+          <SYS_ORDER_NUMBERS>130043</SYS_ORDER_NUMBERS>
+        </row>
+      </data>
+    </table>
+  </tables>
+</method>
